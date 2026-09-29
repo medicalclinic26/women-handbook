@@ -6,6 +6,6 @@ Unofficial teaching book – for use inside the clinic only.
 Prepared by Dr. Archuthan Nithiyananthan (RHO).
 Translated and proofread by Dr. Yasodara Amarasinghe (RHO), Dr. Kasunika Perera (RHO), Dr. Madara Malsirini (RHO).
 
-Live site: https://archuthan97.github.io/womens-health-book/
+Live site: https://medicalclinic26.github.io/women-handbook/
 
 Do not rename this repository: the printed QR code points to this address.
